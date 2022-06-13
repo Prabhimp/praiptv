@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVRParlemen.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj" group-title="Asia-Pacific",TVR Parlemen (720p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRIAceh.id" tvg-country="ID-AC" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Asia-Pacific",TVRI Aceh (720p) [Not 24/7]
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
+#EXTINF:-1 tvg-id="TVRIBali.id" tvg-country="ID-BA" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/3N6NDPf.png" group-title="Asia-Pacific",TVRI Bali (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
+#EXTINF:-1 tvg-id="TVRIBangkaBelitung.id" tvg-country="ID-BB" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Asia-Pacific",TVRI Bangka Belitung (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
+#EXTINF:-1 tvg-id="TVRIBengkulu.id" tvg-country="ID-BE" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/qswy60o.png" group-title="Asia-Pacific",TVRI Bengkulu (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
+#EXTINF:-1 tvg-id="TVRIDKIJakarta.id" tvg-country="ID-JK" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-jakarta-id.png" group-title="Asia-Pacific",TVRI DKI Jakarta (720p) [Not 24/7]
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
+#EXTINF:-1 tvg-id="TVRIGorontalo.id" tvg-country="ID-GO" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Asia-Pacific",TVRI Gorontalo (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
+#EXTINF:-1 tvg-id="TVRIJambi.id" tvg-country="ID-JA" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/e0Ulmy5.png" group-title="Asia-Pacific",TVRI Jambi (720p) [Not 24/7]
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
+#EXTINF:-1 tvg-id="TVRIWestJava.id" tvg-country="ID-JB" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-jawa-barat-id.png" group-title="Asia-Pacific",TVRI Jawa Barat (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
+#EXTINF:-1 tvg-id="TVRICentralJava.id" tvg-country="ID-JT" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-jawa-tengah-id.png" group-title="Asia-Pacific",TVRI Jawa Tengah (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
+#EXTINF:-1 tvg-id="TVRIEastJava.id" tvg-country="ID-JI" tvg-language="Indonesian;Javanese" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-jawa-timur-id.png" group-title="Asia-Pacific",TVRI Jawa Timur (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
+#EXTINF:-1 tvg-id="TVRIWestKalimantan.id" tvg-country="ID-KB" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Asia-Pacific",TVRI Kalimantan Barat (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
+#EXTINF:-1 tvg-id="TVRISouthKalimantan.id" tvg-country="ID-KS" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Asia-Pacific",TVRI Kalimantan Selatan (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
+#EXTINF:-1 tvg-id="TVRICentralKalimantan.id" tvg-country="ID-KT" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-kalteng-id.png" group-title="Asia-Pacific",TVRI Kalimantan Tengah (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
+#EXTINF:-1 tvg-id="TVRIEastKalimantan.id" tvg-country="ID-KI" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-kaltim-id.png" group-title="Asia-Pacific",TVRI Kalimantan Timur (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
+#EXTINF:-1 tvg-id="TVRILampung.id" tvg-country="ID-LA" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/8102yhJ.png" group-title="Asia-Pacific",TVRI Lampung (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
+#EXTINF:-1 tvg-id="TVRIMaluku.id" tvg-country="ID-ML;ID-MU" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Asia-Pacific",TVRI Maluku (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
+#EXTINF:-1 tvg-id="TVRIMaluku.id" tvg-country="ID-ML;ID-MU" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Asia-Pacific",TVRI Maluku (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Asia-Pacific",TVRI Nasional (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+#EXTINF:-1 tvg-id="TVRIWestNusaTenggara.id" tvg-country="ID-NB" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Asia-Pacific",TVRI Nusa Tenggara Barat (720p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINtbmataram)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="ID" tvg-language="" tvg-logo="" group-title="Asia-Pacific",TVRI Nusa Tenggara Barat (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
+#EXTINF:-1 tvg-id="TVRIEastNusaTenggara.id" tvg-country="ID-NT" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-nusa-tenggara-timur-id.png" group-title="Asia-Pacific",TVRI Nusa Tenggara Timur (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="ID" tvg-language="" tvg-logo="" group-title="Asia-Pacific",TVRI Nusa Tenggara Timur (480p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="ID" tvg-language="" tvg-logo="" group-title="Asia-Pacific",TVRI Nusa Tenggara Timur (576p)
+https://alfa.kugo.id/tvrintt/rtmp.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRIPapua.id" tvg-country="ID-PP" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/eQ7Aqy5.png" group-title="Asia-Pacific",TVRI Papua (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
+#EXTINF:-1 tvg-id="TVRIRiau.id" tvg-country="ID-RI" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/iSERkWC.png" group-title="Asia-Pacific",TVRI Riau (720p) [Not 24/7]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/index.m3u8
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/7hVLCeq.png" group-title="Asia-Pacific",TVRI Sport (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:-1 tvg-id="TVRIWestSulawesi.id" tvg-country="ID-SR" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Asia-Pacific",TVRI Sulawesi Barat (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8
+#EXTINF:-1 tvg-id="TVRISouthSulawesi.id" tvg-country="ID-SN" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-sulawesi-selatan-id.png" group-title="Asia-Pacific",TVRI Sulawesi Selatan (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
+#EXTINF:-1 tvg-id="TVRICentralSulawesi.id" tvg-country="ID-ST" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Asia-Pacific",TVRI Sulawesi Tengah (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
+#EXTINF:-1 tvg-id="TVRISoutheastSulawesi.id" tvg-country="ID-SG" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="Asia-Pacific",TVRI Sulawesi Tenggara (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
+#EXTINF:-1 tvg-id="TVRIWestSumatra.id" tvg-country="ID-SS" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-sumbar-id.png" group-title="Asia-Pacific",TVRI Sumatera Barat (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
+#EXTINF:-1 tvg-id="TVRISouthSumatra.id" tvg-country="ID-SB" tvg-language="Indonesian" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-sumsel-id.png" group-title="Asia-Pacific",TVRI Sumatera Selatan (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
+#EXTINF:-1 tvg-id="TVRIWorld.id" tvg-country="ID" tvg-language="English" tvg-logo="https://i.imgur.com/h3RldTO.png" group-title="Asia-Pacific",TVRI World (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+#EXTINF:-1 tvg-id="TVRIYogyakarta.id" tvg-country="ID-YO" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/lcH92DJ.png" group-title="Asia-Pacific",TVRI Yogyakarta (720p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
